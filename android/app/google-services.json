@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628245819288",
+    "project_id": "mywayz-44a8b",
+    "storage_bucket": "mywayz-44a8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628245819288:android:c8373017f160e9620545ed",
+        "android_client_info": {
+          "package_name": "com.example.mywayz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628245819288-bll7pjibs2t936q1qvjik5cjncmtvkvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mywayz",
+            "certificate_hash": "acb49a82c38fad4772d650e718a79153baac0448"
+          }
+        },
+        {
+          "client_id": "628245819288-58hu82igfpdsr0e0gbeoqcaocukbkdf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzUvBqUqjz2tppXuZbxzyil3Fa6xlz_IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628245819288-58hu82igfpdsr0e0gbeoqcaocukbkdf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
